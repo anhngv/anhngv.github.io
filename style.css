@@ -194,6 +194,9 @@ you can use the generic selector below, but it's slower:
 .icon-pencil:before {
 	content: "\e032";
 }
+.icon-ui:before {
+	content: "\273F";
+}
 .icon-tools:before {
 	content: "\e033";
 }
